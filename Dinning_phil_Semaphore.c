@@ -1,3 +1,5 @@
+///The problem is based on a scenario where there are five philosophers sitting around a circular table, and each philosopher alternates between thinking and eating. There is a bowl of rice placed between each pair of adjacent philosophers, and a single chopstick is placed between each pair of adjacent bowls. Therefore, there are five chopsticks in total.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
